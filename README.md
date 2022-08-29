@@ -32,11 +32,11 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 <ul> 
   <li>
-    <a href = "https://dogs-project-alejandro.vercel.app">DogsApp</a> 
+    <a href = "https://dogs-project-alejandro.vercel.app">✔DogsApp</a> 
     <p>
-      Proyecto Individual desarrollado para el Bootcamp de Desarollo web Fullstack, se trata de un Single Page Application con la temática de dogs.<br>
+      Proyecto Individual para el Bootcamp de Desarollo web Fullstack, se trata de un Single Page Application con la temática de dogs.<br>
       Se han implementado funcionalidades como:<br> 
-      ✔Funcionalidades de usuarios:<br> 
+      <br> 
       -Mirar todos los perros de raza, creados y traídos de la api (The Dog Api)<br> 
 -Filtrar por temperamento<br> 
 -Buscar por nombre<br> 
@@ -48,7 +48,7 @@ ReactJS -NodeJS- ReduxJS -JavaScript -PosgresSQL -Express -Sequalize -CSS
     </p>
   </li>
   <li>
-    <a href = "https://universalmusic-henry.web.app/">Ecommerce Universal Music</a>
+    <a href = "https://universalmusic-henry.web.app/">✔Ecommerce Universal Music</a>
     <p>
       Proyecto Final desarrollado se trata de un Single Page Application que me permite la gestión de una tienda de Instrumentos musicales. Ha sido elaborada en equipo de 7 integrantes y tiene las siguientes funcionalidades:<br>
       </p>
