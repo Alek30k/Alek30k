@@ -30,45 +30,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 ## Proyectos
 
-<ul> 
-  <li>
-    <a href = "https://dogs-project-alejandro.vercel.app">✔DogsApp</a> 
-    <p>
-      Proyecto Individual para el Bootcamp de Desarollo web Fullstack, se trata de un Single Page Application con la temática de dogs.<br>
-      Se han implementado funcionalidades como:<br> 
-      <br> 
-      -Mirar todos los perros de raza, creados y traídos de la api (The Dog Api)<br> 
--Filtrar por temperamento<br> 
--Buscar por nombre<br> 
--Crear una nueva raza de perro<br> 
--Ordenar por peso<br> 
--Ordenar alfabéticamente<br> 
-🔹Tecnologías utilizadas:
-ReactJS -NodeJS- ReduxJS -JavaScript -PosgresSQL -Express -Sequalize -CSS
-    </p>
-  </li>
-  <li>
-    <a href = "https://universalmusic-henry.web.app/">✔Ecommerce Universal Music</a>
-    <p>
-      Proyecto Final desarrollado se trata de un Single Page Application que me permite la gestión de una tienda de Instrumentos musicales. Ha sido elaborada en equipo de 7 integrantes y tiene las siguientes funcionalidades:<br>
-      </p>
-      <ul>
-        <li>
-          <h5>Usuario no registrado<h5/> 
-          <p>Ver todos los productos, filtrarlos por categoría, ordenarlos por nombre o precio de forma ascendente o descendente. Añadir productos al carrito, loguearse o registrarse en la tienda</p>
-        </li>
-        <li>
-          <h5>Usuario registrado:<h5/> 
-          <p>Adicional a las funcionalidades del usuario no registrado, puede realizar pedidos, agregar a favoritos, realizar pagos con targeta de crédito, ver los datos de su perfil y todas las compras realizadas y eliminar pedidos.</p>
-        </li>
-        <li>
-          <h5>Usuario administrador:<h5/> 
-          <p>El administrador tiene la posibilidad de gestionar los productos y categorias, permitiendole crear un a nueva categoría, editarla o eliminarla. Añadir nuevos productos, eliminar o editar productos, gestión de las ventas, en la cual puede ver todos los pedidos que se han realizado, cambiar el estatus de pendiente a entregado cuando ésta haya sido enviado y eliminar un pedido que no ha sido pagado. Finalmente una página para administrar los usuarios, pudiendo ver todos los usuarios registrados en la aplicación y bloquearlos o desbloquearlos en caso de ser necesario. Envios de email cuando se leguea o realiza una compra. Cuenta además con Dark mode y un chatbot incluido</p>
-        </li>
-       <ul/>
-       <p>Las tecnologías usadas son: Sequelize, Express, React, Typescript, Tailwind.
-  </li>
-</ul>
+
 
 ## Contacto
 
