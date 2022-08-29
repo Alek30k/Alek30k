@@ -1,8 +1,5 @@
 ![text](https://user-images.githubusercontent.com/101005998/187289683-ba8a3eb6-c980-460d-9f14-99af7cbeb6e5.gif)
 
-### Hola! 👋 Soy Alejandro :Argentina:
-
-#### Full Stack Web Developer
 
 ## Sobre mí
 
