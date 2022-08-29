@@ -73,7 +73,7 @@ ReactJS -NodeJS- ReduxJS -JavaScript -PosgresSQL -Express -Sequalize -CSS
 ## Contacto
 
 <div> 
- <a href="https://www.linkedin.com/in/alejandro-cabrera-7b13a7177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/alejandro-cabrera-7b13a7177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "alemank23k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
