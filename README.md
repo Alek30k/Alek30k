@@ -1,17 +1,18 @@
 ![text (1)](https://user-images.githubusercontent.com/101005998/187297502-f0ee7a21-b67f-49c9-9459-9175d72c73f1.gif)
 
 
-## Sobre mí
+## About me
 
 <p>
- Soy Alejandro y soy Full Stack Developer con orientación al Frontend. Fiel creyente de que la mentalidad abierta es la cualidad más importante de las personas. Amo la música y programar.
+ I'm Alejandro and I'm a Full Stack Developer with a Frontend orientation. Faithful believer that open-mindedness is the most important quality of people. I love music and programming.
+
 <br><br>
-Finalicé el Bootcamp de Desarrollo web Fullstack de <a href="https://www.soyhenry.com">Henry</a>. Ha sido una locura todo lo que he aprendido en relativamente poco tiempo! Cada decisión que he tomado desde que decidí enfocarme en mi carrera profesional ha sido una experiencia muy enriquecedora, no he parado de crecer y cada día me siento más cerca de ser la persona en la que deseaba convertirme.
+I finished the Fullstack Web Development Bootcamp de <a href="https://www.soyhenry.com">Henry</a>.It's been crazy everything I've learned in a relatively short time! Every decision I have made since I decided to focus on my professional career has been a very enriching experience, I have not stopped growing and every day I feel closer to being the person I wanted to become.
 <br><br>
-Considero que el trabajo en equipo es especialmente importante en el desarrollo de software por la rapidez y cantidad de cambios que se dan por las diversas y diferentes ideas del equipo, pues además es una buena forma de reforzar los conocimientos propios y explorar diferentes perspectivas.
+I believe that teamwork is especially important in software development due to the speed and quantity of changes that occur due to the diverse and different ideas of the team, as it is also a good way to reinforce one's own knowledge and explore different perspectives.
 </p>
 
-## Tecnologías
+## Technologies
 
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
@@ -26,7 +27,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </div>
 
-## Proyectos
+## Projects
 
  <img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png'/>
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png'/>
@@ -37,7 +38,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 
 
-## Contacto
+## Contact
 
 <div> 
  <a href="https://www.linkedin.com/in/alejandro-cabrera-7b13a7177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "alemank23k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
