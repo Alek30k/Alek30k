@@ -30,6 +30,9 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
  <img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png'/>
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png'/>
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png'/>
+<img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png'/>
+<img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png'/>
+
 
 
 
