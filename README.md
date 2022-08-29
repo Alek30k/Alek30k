@@ -1,4 +1,4 @@
-<img align="center" alt="HTML" height="80" width="100" src="https://user-images.githubusercontent.com/101005998/187282920-e37e1911-1a05-4b40-a3b9-75f3f6f906c7.gif">
+<img align="center" alt="HTML" height="500" width="300" src="https://user-images.githubusercontent.com/101005998/187282920-e37e1911-1a05-4b40-a3b9-75f3f6f906c7.gif">
 
 ### Hola! 👋 Soy Alejandro :Argentina:
 
