@@ -1,6 +1,6 @@
 
 
-### Hola 👋, Soy Alejandro :Argentina:
+### Hola! 👋 Soy Alejandro :Argentina:
 
 #### Full Stack Web Developer
 
