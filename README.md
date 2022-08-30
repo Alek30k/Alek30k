@@ -41,8 +41,9 @@ I believe that teamwork is especially important in software development due to t
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329762-d2a7efef-6ddc-4b4d-8e9e-5b92be1b726e.png' width="300" height="200"/>
  <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png' width="300" height="200"/>
   <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329964-84040bec-65fa-4ea1-ae2f-1d63e3b26aa7.png' width="300" height="200"/>
-<img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png' width="300" height="200"/>
-<img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png' width="300" height="200"/>
+ <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187330545-555abca4-ef26-40f0-ad3a-90bf64d26976.png' width="300" height="200"/>
+<img alt='✔Snake' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png' width="300" height="200"/>
+<img alt='✔Memory' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png' width="300" height="200"/>
  </p>
 
 ## Contact
