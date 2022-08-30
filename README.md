@@ -32,6 +32,7 @@ I believe that teamwork is especially important in software development due to t
  <p>
  <a><img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png' width="300" height="200"/></a>
 <a><img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187325973-abee7594-6dfc-4ebb-a670-0527cc4feb37.png' width="300" height="200/></a>
+ <a><img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187325973-abee7594-6dfc-4ebb-a670-0527cc4feb37.png' width="300" height="200/></a>
  <a><img alt='✔DogsApp1' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="300" height="200/></a>
 </p>
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png'/>
