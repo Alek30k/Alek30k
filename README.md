@@ -1,4 +1,4 @@
-                      ![text (1)](https://user-images.githubusercontent.com/101005998/187297502-f0ee7a21-b67f-49c9-9459-9175d72c73f1.gif)
+<div>![text (1)](https://user-images.githubusercontent.com/101005998/187297502-f0ee7a21-b67f-49c9-9459-9175d72c73f1.gif)</div>
 
 
 ## About me
