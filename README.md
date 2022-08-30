@@ -38,7 +38,8 @@ I believe that teamwork is especially important in software development due to t
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png' width="300" height="200"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328880-606437d8-b7f9-407e-ad25-56558d5f4654.png' width="300" height="200"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="300" height="200"/>
-<img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png'/>
+<img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329762-d2a7efef-6ddc-4b4d-8e9e-5b92be1b726e.png' width="300" height="200"/>
+ <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png' width="300" height="200"/>
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png'/>
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png'/>
  </p>
