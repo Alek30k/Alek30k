@@ -7,7 +7,7 @@
  I'm Alejandro and I'm a Full Stack Developer with a Frontend orientation. Faithful believer that open-mindedness is the most important quality of people. I love music and programming.
 
 <br><br>
-I finished the Fullstack Web Development Bootcamp de <a href="https://www.soyhenry.com">Henry</a>.It's been crazy everything I've learned in a relatively short time! Every decision I have made since I decided to focus on my professional career has been a very enriching experience, I have not stopped growing and every day I feel closer to being the person I wanted to become.
+Terminé el Bootcamp de Desarrollo Web Fullstack de<a href="https://www.soyhenry.com">Henry</a>.It's been crazy everything I've learned in a relatively short time! Every decision I have made since I decided to focus on my professional career has been a very enriching experience, I have not stopped growing and every day I feel closer to being the person I wanted to become.
 <br><br>
 I believe that teamwork is especially important in software development due to the speed and quantity of changes that occur due to the diverse and different ideas of the team, as it is also a good way to reinforce one's own knowledge and explore different perspectives.
 </p>
