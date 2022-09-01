@@ -1,4 +1,5 @@
-![text](https://user-images.githubusercontent.com/101005998/187993053-af4ccb6c-4eee-444f-91d8-210ade66f469.gif)
+![text (3)](https://user-images.githubusercontent.com/101005998/187993508-c19178dd-22f4-4190-8eeb-b08965ebbbf0.gif)
+
 
 
 ## Sobre mí
