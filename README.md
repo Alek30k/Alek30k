@@ -70,7 +70,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 ## Contacto
 
 <div> 
- <a href="https://www.linkedin.com/in/alejandro-cabrera-7b13a7177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:alemank23k@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail">Aquí el texto que quieras target="_blank"></a>
+ <a href="https://www.linkedin.com/in/alejandro-cabrera-7b13a7177/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:alemank23k@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank"></a>
 </div>
 
 
