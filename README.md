@@ -32,8 +32,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 </div>
 
 ## Proyectos
-✔Feisbuk
-<details>
+✔Feisbuk <details>
     <summary>ver más...</summary>
 
  <p><img alt='✔Feisbuk' src='https://user-images.githubusercontent.com/101005998/201527099-8e3eea28-df60-49ce-8713-123af938b2f2.png' width="250" height="180"/>
