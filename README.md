@@ -55,7 +55,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
     <summary>✔Ecommerce Universal Music >>>ver más<<<</summary>
  <p><img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/187325973-abee7594-6dfc-4ebb-a670-0527cc4feb37.png' width="250" height="180"/>
- <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="250" height="180"/></details> <br /><br />
+ <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="250" height="180"/></details>
  
  <details>
     <summary>✔Ecommerce Universal Music >>>ver más<<<</summary>   
@@ -65,7 +65,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="250" height="180"/><br /><br /></details>
                     
 <details>
-    <summary>✔Resto <br /> >>>ver más<<<</summary>
+    <summary>✔Resto>>>ver más<<<</summary>
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329762-d2a7efef-6ddc-4b4d-8e9e-5b92be1b726e.png' width="250" height="180"/>
  <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png' width="250" height="180"/>
   <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329964-84040bec-65fa-4ea1-ae2f-1d63e3b26aa7.png' width="250" height="180"/><br /><br /></details>
