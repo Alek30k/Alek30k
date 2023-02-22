@@ -41,7 +41,6 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
     <details>
     <summary>✔ArcTube   >>>ver más<<<</summary>
-
  <p><img alt='✔ArcTube' src='https://user-images.githubusercontent.com/101005998/198392701-f7227cb4-82f6-4ecb-bc19-afeeeb8fc09f.png' width="250" height="180"/>
 <img alt='✔ArcTube2' src='https://user-images.githubusercontent.com/101005998/198392864-a007aadf-be22-4b2e-b715-48d1d3780640.png' width="250" height="180"/>
  <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><br /><br /></details>
