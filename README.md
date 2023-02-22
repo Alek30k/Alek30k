@@ -39,17 +39,23 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔Feisbuk2' src='https://user-images.githubusercontent.com/101005998/201527171-bb52d288-e839-4548-ab1a-d8202487dc2d.png' width="250" height="180"/>
  <img alt='✔Feisbuk3' src='https://user-images.githubusercontent.com/101005998/201527217-7c99836d-375a-49fb-b692-1408ad76c659.png' width="250" height="180"/><br /><br /></details>
 
-✔ArcTube
+    <details>
+    <summary>✔ArcTube   >>>ver más<<<</summary>
+
  <p><img alt='✔ArcTube' src='https://user-images.githubusercontent.com/101005998/198392701-f7227cb4-82f6-4ecb-bc19-afeeeb8fc09f.png' width="250" height="180"/>
 <img alt='✔ArcTube2' src='https://user-images.githubusercontent.com/101005998/198392864-a007aadf-be22-4b2e-b715-48d1d3780640.png' width="250" height="180"/>
- <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><br /><br />
+ <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><br /><br /></details>
 
-✔Hotels-Reservation
+        <details>
+    <summary>✔Hotels-Reservation  >>>ver más<<<</summary>
+
  <p><img alt='✔Hotels-Reservation' src='https://user-images.githubusercontent.com/101005998/194777791-13f98d6d-6433-4b75-bab1-04026846594d.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/194777918-f353c262-be8c-47ed-a713-13dadb0038dc.png' width="250" height="180"/>
- <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><br /><br />
+ <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><br /><br />  </details>
 
- ✔Ecommerce Universal Music
+                <details>
+    <summary>✔Ecommerce Universal Music >>>ver más<<<</summary>
+ 
  <p><img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/187325973-abee7594-6dfc-4ebb-a670-0527cc4feb37.png' width="250" height="180"/>
  <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="250" height="180"/><br /><br />
@@ -57,12 +63,19 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png' width="250" height="180"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328880-606437d8-b7f9-407e-ad25-56558d5f4654.png' width="250" height="180"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="250" height="180"/><br /><br />
- ✔Resto <br />
+     </details>
+                    
+                     <details>
+    <summary>✔Resto <br /> >>>ver más<<<</summary>
+ 
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329762-d2a7efef-6ddc-4b4d-8e9e-5b92be1b726e.png' width="250" height="180"/>
  <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png' width="250" height="180"/>
   <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329964-84040bec-65fa-4ea1-ae2f-1d63e3b26aa7.png' width="250" height="180"/><br /><br />
-
- ✔Plus 
+ </details>
+                         
+  <details>
+    <summary>✔Plus  >>>ver más<<<</summary>
+ 
 
   <p> 
  <img alt='✔shop' src='https://user-images.githubusercontent.com/101005998/194778929-19799d4e-f22c-4211-a2f6-102117831e48.png' width="250" height="180"/>
@@ -71,8 +84,10 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔Snake' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png' width="250" height="180"/>
 <img alt='✔Memory' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png' width="250" height="180"/>
  </p>
-
+</details>
+      
 ![Snake animation](https://github.com/de-horst/de-horst/blob/output/github-contribution-grid-snake.svg)
+        
 ## Contacto
 
 <div> 
