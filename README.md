@@ -45,12 +45,11 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔ArcTube2' src='https://user-images.githubusercontent.com/101005998/198392864-a007aadf-be22-4b2e-b715-48d1d3780640.png' width="250" height="180"/>
  <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><br /><br /></details>
 
-        <details>
+ <details>
     <summary>✔Hotels-Reservation  >>>ver más<<<</summary>
-
  <p><img alt='✔Hotels-Reservation' src='https://user-images.githubusercontent.com/101005998/194777791-13f98d6d-6433-4b75-bab1-04026846594d.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/194777918-f353c262-be8c-47ed-a713-13dadb0038dc.png' width="250" height="180"/>
- <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><br /><br />  </details>
+ <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><br /><br /></details>
 
                 <details>
     <summary>✔Ecommerce Universal Music >>>ver más<<<</summary>
