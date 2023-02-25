@@ -6,7 +6,7 @@
 ## Sobre mí
 
 <p>
-Me Alejandro y soy Full Stack Developer con orientation al Frontend. Fiel creyente de que la apertura mental es la cualidad más importante de las personas. Me encanta la música y la programación.
+Me Alejandro y soy Full Stack Developer. Fiel creyente de que la apertura mental es la cualidad más importante de las personas. Me encanta la música y la programación.
 
 <br><br>
 Terminé el Bootcamp de Desarrollo Web Fullstack de<a href="https://www.soyhenry.com">Henry</a>.¡Ha sido una locura todo lo que he aprendido en un tiempo relativamente corto! Cada decisión que he tomado desde que decidí enfocarme en mi carrera profesional ha sido una experiencia muy enriquecedora, no he dejado de crecer y cada día me siento más cerca de ser la persona que quería ser.
