@@ -62,7 +62,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
  <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="250" height="180"/></details>
  
  <details>
-    <summary>✔Console.Dog() >>>ver más<<<</summary>   
+    <summary>✔Console.Dog>>>ver más<<<</summary>   
  ✔console.Dog()<br />
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png' width="250" height="180"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328880-606437d8-b7f9-407e-ad25-56558d5f4654.png' width="250" height="180"/>
