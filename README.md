@@ -32,6 +32,12 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 ## Proyectos
 <details>
+    <summary>✔Fiverr.   >>>ver más<<<</summary>
+<p><img alt='✔Fiverr.1' src='https://user-images.githubusercontent.com/101005998/219974106-a3ad4d29-4a51-4180-9fb7-cbef45992643.png' width="250" height="180"/>
+<img alt='✔Fiverr.2' src='https://user-images.githubusercontent.com/101005998/219974232-73fb5a7d-2455-437f-bcec-90d920941e88.png' width="250" height="180"/>
+ <img alt='✔Fiverr.3' src='https://user-images.githubusercontent.com/101005998/219974256-8a3da070-0583-4012-ac68-14bdc8be6160.png' width="250" height="180"/><br /><br /></details>
+
+<details>
     <summary>✔Feisbuk   >>>ver más<<<</summary>
 <p><img alt='✔Feisbuk' src='https://user-images.githubusercontent.com/101005998/201527099-8e3eea28-df60-49ce-8713-123af938b2f2.png' width="250" height="180"/>
 <img alt='✔Feisbuk2' src='https://user-images.githubusercontent.com/101005998/201527171-bb52d288-e839-4548-ab1a-d8202487dc2d.png' width="250" height="180"/>
