@@ -45,25 +45,25 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
     <summary>✔Fiverr.   >>>ver más<<<</summary>
 <p><img alt='✔Fiverr.1' src='https://user-images.githubusercontent.com/101005998/219974106-a3ad4d29-4a51-4180-9fb7-cbef45992643.png' width="250" height="180"/>
 <img alt='✔Fiverr.2' src='https://user-images.githubusercontent.com/101005998/219974232-73fb5a7d-2455-437f-bcec-90d920941e88.png' width="250" height="180"/>
- <img alt='✔Fiverr.3' src='https://user-images.githubusercontent.com/101005998/219974256-8a3da070-0583-4012-ac68-14bdc8be6160.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
+ <img alt='✔Fiverr.3' src='https://user-images.githubusercontent.com/101005998/219974256-8a3da070-0583-4012-ac68-14bdc8be6160.png' width="250" height="180"/><a href="https://merry-bienenstitch-43a67e.netlify.app" target="_blank">>>>Deploy<<<</a></details>
 
 <details>
     <summary>✔Feisbuk   >>>ver más<<<</summary>
 <p><img alt='✔Feisbuk' src='https://user-images.githubusercontent.com/101005998/201527099-8e3eea28-df60-49ce-8713-123af938b2f2.png' width="250" height="180"/>
 <img alt='✔Feisbuk2' src='https://user-images.githubusercontent.com/101005998/201527171-bb52d288-e839-4548-ab1a-d8202487dc2d.png' width="250" height="180"/>
- <img alt='✔Feisbuk3' src='https://user-images.githubusercontent.com/101005998/201527217-7c99836d-375a-49fb-b692-1408ad76c659.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
+ <img alt='✔Feisbuk3' src='https://user-images.githubusercontent.com/101005998/201527217-7c99836d-375a-49fb-b692-1408ad76c659.png' width="250" height="180"/><a href="https://socialfeisbuk-or0g0pnjo-alek30k.vercel.app/" target="_blank">>>>Deploy<<<</a></details>
     
 <details>
     <summary>✔ArcTube   >>>ver más<<<</summary>
  <p><img alt='✔ArcTube' src='https://user-images.githubusercontent.com/101005998/198392701-f7227cb4-82f6-4ecb-bc19-afeeeb8fc09f.png' width="250" height="180"/>
 <img alt='✔ArcTube2' src='https://user-images.githubusercontent.com/101005998/198392864-a007aadf-be22-4b2e-b715-48d1d3780640.png' width="250" height="180"/>
- <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
+ <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><a href="https://arctube.vercel.app/" target="_blank">>>>Deploy<<<</a></details>
 
  <details>
     <summary>✔Hotels-Reservation  >>>ver más<<<</summary>
  <p><img alt='✔Hotels-Reservation' src='https://user-images.githubusercontent.com/101005998/194777791-13f98d6d-6433-4b75-bab1-04026846594d.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/194777918-f353c262-be8c-47ed-a713-13dadb0038dc.png' width="250" height="180"/>
- <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
+ <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><a href="https://f-hotel-reservation.vercel.app/" target="_blank">>>>Deploy<<<</a></details>
      
 <details>
     <summary>✔AleSocial  >>>ver más<<<</summary>
@@ -82,7 +82,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
  ✔console.Dog()<br />
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png' width="250" height="180"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328880-606437d8-b7f9-407e-ad25-56558d5f4654.png' width="250" height="180"/>
- <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>/details>
+ <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="250" height="180"/><a href="https://dogs-project-alejandro.vercel.app/">>>>Deploy<<<</a></details>
                     
 <details>
     <summary>✔Resto>>>ver más<<<</summary>
