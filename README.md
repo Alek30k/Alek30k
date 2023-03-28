@@ -93,7 +93,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
     <summary>✔Plus  >>>ver más<<<</summary>
   <div> 
  <img alt='✔shop' src='https://user-images.githubusercontent.com/101005998/194778929-19799d4e-f22c-4211-a2f6-102117831e48.png' width="250" height="180"/><a href="https://shop-arc.vercel.app/" target="_blank">>>>Deploy<<<</a></div>
-<div> <img alt='✔weather' src='https://user-images.githubusercontent.com/101005998/194778808-56a82443-f1a4-4afe-9d69-dfeb3b93c711.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
+<div> <img alt='✔weather' src='https://user-images.githubusercontent.com/101005998/194778808-56a82443-f1a4-4afe-9d69-dfeb3b93c711.png' width="250" height="180"/><a href="https://weather-app-murex-five.vercel.app/" target="_blank">>>>Deploy<<<</a></div>
  <div><img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187330545-555abca4-ef26-40f0-ad3a-90bf64d26976.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
 <div><img alt='✔Snake' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
 <div><img alt='✔Memory' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
