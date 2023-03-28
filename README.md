@@ -32,14 +32,12 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 </div>
 
 ## Proyectos
- <a href=”https://www.masterseosem.com” target=”_blank”>texto</a>
 <details>
     <summary>✔Alemovie  >>>ver más<<<</summary>
 <p><img alt='✔Movie.1' src='https://user-images.githubusercontent.com/101005998/228261001-935d6e77-8151-40f4-a572-8f191d85bfab.png' width="250" height="180"/>
 <img alt='✔Movie.2' src='https://user-images.githubusercontent.com/101005998/228261157-833f0ecf-6cb4-47de-b6e0-de79efe98300.png' width="250" height="180"/>
  <img alt='✔Movie.3' src='https://user-images.githubusercontent.com/101005998/228261442-56473daf-4c16-48c5-a9eb-01e90bce08a6.png' width="250" height="180"/>
-    <a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>
-       
+    <a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>     
 </details>
 
 
@@ -47,50 +45,50 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
     <summary>✔Fiverr.   >>>ver más<<<</summary>
 <p><img alt='✔Fiverr.1' src='https://user-images.githubusercontent.com/101005998/219974106-a3ad4d29-4a51-4180-9fb7-cbef45992643.png' width="250" height="180"/>
 <img alt='✔Fiverr.2' src='https://user-images.githubusercontent.com/101005998/219974232-73fb5a7d-2455-437f-bcec-90d920941e88.png' width="250" height="180"/>
- <img alt='✔Fiverr.3' src='https://user-images.githubusercontent.com/101005998/219974256-8a3da070-0583-4012-ac68-14bdc8be6160.png' width="250" height="180"/></details>
+ <img alt='✔Fiverr.3' src='https://user-images.githubusercontent.com/101005998/219974256-8a3da070-0583-4012-ac68-14bdc8be6160.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
 
 <details>
     <summary>✔Feisbuk   >>>ver más<<<</summary>
 <p><img alt='✔Feisbuk' src='https://user-images.githubusercontent.com/101005998/201527099-8e3eea28-df60-49ce-8713-123af938b2f2.png' width="250" height="180"/>
 <img alt='✔Feisbuk2' src='https://user-images.githubusercontent.com/101005998/201527171-bb52d288-e839-4548-ab1a-d8202487dc2d.png' width="250" height="180"/>
- <img alt='✔Feisbuk3' src='https://user-images.githubusercontent.com/101005998/201527217-7c99836d-375a-49fb-b692-1408ad76c659.png' width="250" height="180"/><br /><br /></details>
+ <img alt='✔Feisbuk3' src='https://user-images.githubusercontent.com/101005998/201527217-7c99836d-375a-49fb-b692-1408ad76c659.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
     
 <details>
     <summary>✔ArcTube   >>>ver más<<<</summary>
  <p><img alt='✔ArcTube' src='https://user-images.githubusercontent.com/101005998/198392701-f7227cb4-82f6-4ecb-bc19-afeeeb8fc09f.png' width="250" height="180"/>
 <img alt='✔ArcTube2' src='https://user-images.githubusercontent.com/101005998/198392864-a007aadf-be22-4b2e-b715-48d1d3780640.png' width="250" height="180"/>
- <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><br /><br /></details>
+ <img alt='✔ArcTube3' src='https://user-images.githubusercontent.com/101005998/198393680-6aa865fd-176a-4203-9f42-47c8ee0d0f42.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
 
  <details>
     <summary>✔Hotels-Reservation  >>>ver más<<<</summary>
  <p><img alt='✔Hotels-Reservation' src='https://user-images.githubusercontent.com/101005998/194777791-13f98d6d-6433-4b75-bab1-04026846594d.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/194777918-f353c262-be8c-47ed-a713-13dadb0038dc.png' width="250" height="180"/>
- <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><br /><br /></details>
+ <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/194777934-4d9cae6e-e40e-4e13-817f-916abd26e1df.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
      
 <details>
     <summary>✔AleSocial  >>>ver más<<<</summary>
  <p><img alt='✔AleSocial1' src='https://user-images.githubusercontent.com/101005998/220920709-d6c7b3ca-52a7-4246-9b96-a528b5db02b6.png' width="250" height="180"/>
 <img alt='✔AleSocial2' src='https://user-images.githubusercontent.com/101005998/220921075-448abb3f-6414-4f1f-a435-c59fc3050daa.png' width="250" height="180"/>
- <img alt='✔AleSocial3' src='https://user-images.githubusercontent.com/101005998/220921206-4171b676-f663-48fb-a434-15ed78f5b024.png' width="250" height="180"/><br /><br /></details>
+ <img alt='✔AleSocial3' src='https://user-images.githubusercontent.com/101005998/220921206-4171b676-f663-48fb-a434-15ed78f5b024.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
 
 <details>
     <summary>✔Ecommerce Universal Music >>>ver más<<<</summary>
  <p><img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png' width="250" height="180"/>
 <img alt='✔Ecomerce Universal Music2' src='https://user-images.githubusercontent.com/101005998/187325973-abee7594-6dfc-4ebb-a670-0527cc4feb37.png' width="250" height="180"/>
- <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="250" height="180"/></details>
+ <img alt='✔Ecomerce Universal Music3' src='https://user-images.githubusercontent.com/101005998/187327005-0f51a729-505e-459b-8f25-dbf3cea26ad0.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
  
  <details>
     <summary>✔Console.Dog>>>ver más<<<</summary>   
  ✔console.Dog()<br />
 <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187280312-c69bc122-9e74-4ff5-8eec-36a5939c20d0.png' width="250" height="180"/>
  <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328880-606437d8-b7f9-407e-ad25-56558d5f4654.png' width="250" height="180"/>
- <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="250" height="180"/><br /><br /></details>
+ <img alt='✔DogsApp' src='https://user-images.githubusercontent.com/101005998/187328983-b1b510aa-be21-48c8-a996-86109c729cb2.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>/details>
                     
 <details>
     <summary>✔Resto>>>ver más<<<</summary>
 <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329762-d2a7efef-6ddc-4b4d-8e9e-5b92be1b726e.png' width="250" height="180"/>
  <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187281087-f9c7f4ae-c90e-408c-a821-d3aedf39d647.png' width="250" height="180"/>
-  <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329964-84040bec-65fa-4ea1-ae2f-1d63e3b26aa7.png' width="250" height="180"/><br /><br /></details>
+  <img alt='✔Food' src='https://user-images.githubusercontent.com/101005998/187329964-84040bec-65fa-4ea1-ae2f-1d63e3b26aa7.png' width="250" height="180"/><a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a></details>
                          
  <details>
     <summary>✔Plus  >>>ver más<<<</summary>
