@@ -28,16 +28,18 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <a href="https://insomnia.com/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongoDB.org" target="_blank"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="" width="50" height="50"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>
 </div>
 
 ## Proyectos
-<a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>
+
 <details>
     <summary>✔Alemovie  >>>ver más<<<</summary>
 <p><img alt='✔Movie.1' src='https://user-images.githubusercontent.com/101005998/228261001-935d6e77-8151-40f4-a572-8f191d85bfab.png' width="250" height="180"/>
 <img alt='✔Movie.2' src='https://user-images.githubusercontent.com/101005998/228261157-833f0ecf-6cb4-47de-b6e0-de79efe98300.png' width="250" height="180"/>
  <img alt='✔Movie.3' src='https://user-images.githubusercontent.com/101005998/228261442-56473daf-4c16-48c5-a9eb-01e90bce08a6.png' width="250" height="180"/>
     <a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>
+        <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </details>
 
 
