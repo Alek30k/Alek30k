@@ -31,6 +31,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 </div>
 
 ## Proyectos
+<a href="https://voluble-jelly-c121e1.netlify.app/" target="_blank">>>>Deploy<<<</a>
 <details>
     <summary>✔Alemovie  >>>ver más<<<</summary>
 <p><img alt='✔Movie.1' src='https://user-images.githubusercontent.com/101005998/228261001-935d6e77-8151-40f4-a572-8f191d85bfab.png' width="250" height="180"/>
