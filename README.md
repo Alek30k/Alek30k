@@ -39,6 +39,13 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔Super.2' src='https://github.com/Alek30k/Alek30k/assets/101005998/e4653e8f-b21e-46f5-a6a9-c55337ba2429' width="250" height="180"/>
  <img alt='✔Super.3' src='https://github.com/Alek30k/Alek30k/assets/101005998/58bfec5f-428e-4f3b-916c-e6b21870970e' width="250" height="180"/><a href="https://csarta.vercel.app/" target="_blank">>>>Deploy<<<</a>     
 </details>
+   
+   <details>
+    <summary>✔Blog  >>>ver más<<<</summary>
+<p><img alt='✔Blog.1' src='https://github.com/Alek30k/learnNext.js/assets/101005998/3c9c4f86-a089-4e6c-94af-ca4b2b905584' width="250" height="180"/>
+<img alt='✔Blog.2' src='https://github.com/Alek30k/learnNext.js/assets/101005998/eaf86512-6b20-4f8e-a6a3-549018cb41e2' width="250" height="180"/>
+ <img alt='✔Blog.3' src='https://github.com/Alek30k/learnNext.js/assets/101005998/35c43881-ff67-4bbf-9844-77615c5dcd96' width="250" height="180"/><a href="https://blog-next-iee4tdka0-alek30k.vercel.app" target="_blank">>>>Deploy<<<</a>     
+</details>
 
 <details>
     <summary>✔Alemovie  >>>ver más<<<</summary>
