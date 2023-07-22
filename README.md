@@ -44,7 +44,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
     <summary>✔Panel-Admin Csa Sta Rta  >>>ver más<<<</summary>
 <p><img alt='✔Super.1' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/0c2005a4-9733-4284-9ac2-aae1eb0f88b8' width="250" height="180"/>
 <img alt='✔Super.2' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/95718d6c-c63a-43a7-900b-d235054f128b' width="250" height="180"/>
- <img alt='✔Super.3' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/b69efc74-3bd0-4dbc-b674-0d3b129b170a' width="250" height="180"/><a href="panel-admin-two.vercel.app" target="_blank">>>>Deploy<<<</a>     
+ <img alt='✔Super.3' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/b69efc74-3bd0-4dbc-b674-0d3b129b170a' width="250" height="180"/><a href="panel-admin-35n9ntcvh-alek30k.vercel.app" target="_blank">>>>Deploy<<<</a>     
 </details>
    
    <details>
