@@ -39,6 +39,13 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔Super.2' src='https://github.com/Alek30k/Alek30k/assets/101005998/e4653e8f-b21e-46f5-a6a9-c55337ba2429' width="250" height="180"/>
  <img alt='✔Super.3' src='https://github.com/Alek30k/Alek30k/assets/101005998/58bfec5f-428e-4f3b-916c-e6b21870970e' width="250" height="180"/><a href="https://csarta.vercel.app/" target="_blank">>>>Deploy<<<</a>     
 </details>
+
+<details>
+    <summary>✔Panel-Admin Csa Sta Rta  >>>ver más<<<</summary>
+<p><img alt='✔Super.1' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/0c2005a4-9733-4284-9ac2-aae1eb0f88b8' width="250" height="180"/>
+<img alt='✔Super.2' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/95718d6c-c63a-43a7-900b-d235054f128b' width="250" height="180"/>
+ <img alt='✔Super.3' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/b69efc74-3bd0-4dbc-b674-0d3b129b170a' width="250" height="180"/><a href="panel-admin-two.vercel.app" target="_blank">>>>Deploy<<<</a>     
+</details>
    
    <details>
     <summary>✔Blog  >>>ver más<<<</summary>
