@@ -92,6 +92,12 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <img alt='✔AleSocial2' src='https://user-images.githubusercontent.com/101005998/220921075-448abb3f-6414-4f1f-a435-c59fc3050daa.png' width="250" height="180"/>
  <img alt='✔AleSocial3' src='https://user-images.githubusercontent.com/101005998/220921206-4171b676-f663-48fb-a434-15ed78f5b024.png' width="250" height="180"/><a href="https://alesocial.vercel.app/login" target="_blank">>>>Deploy<<<</a></details>
 
+ <details>
+    <summary>✔Pizzas Alessandro  >>>ver más<<<</summary>
+ <p><img alt='✔Alessandro1' src='https://github.com/Alek30k/Pizza-Alessandro/assets/101005998/f603d28d-ba41-44b0-a963-bbd0551e8900' width="250" height="180"/>
+<img alt='✔Alessandro2' src='https://github.com/Alek30k/Pizza-Alessandro/assets/101005998/79149cba-7c69-4480-a88d-2d7602862b7e' width="250" height="180"/>
+ <img alt='✔Alessandro3' src='https://github.com/Alek30k/Pizza-Alessandro/assets/101005998/40620771-57d3-4312-a67d-0972f819e097' width="250" height="180"/><a href="https://pizza-alessandro.vercel.app/" target="_blank">>>>Deploy<<<</a></details>
+
 <details>
     <summary>✔Ecommerce Universal Music >>>ver más<<<</summary>
  <p><img alt='✔Ecommerce Universal Music' src='https://user-images.githubusercontent.com/101005998/187280053-0cb266b8-4ccd-4cc1-ac87-c41f2466845b.png' width="250" height="180"/>
