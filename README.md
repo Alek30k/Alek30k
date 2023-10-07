@@ -49,9 +49,9 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 <details>
     <summary>✔Panel-Admin Csa Sta Rta  >>>ver más<<<</summary>
-<p><img alt='✔Super.1' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/0c2005a4-9733-4284-9ac2-aae1eb0f88b8' width="250" height="180"/>
-<img alt='✔Super.2' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/95718d6c-c63a-43a7-900b-d235054f128b' width="250" height="180"/>
- <img alt='✔Super.3' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/b69efc74-3bd0-4dbc-b674-0d3b129b170a' width="250" height="180"/><a href="https://panel-admin-two.vercel.app/" target="_blank">>>>Deploy<<<</a>     
+<p><img alt='✔panel.1' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/40202b4d-9899-42bd-b6b6-c18bec401df0' width="250" height="180"/>
+<img alt='✔panel.2' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/3ad3e109-44ee-485b-b9ee-c33dd8b232b8' width="250" height="180"/>
+ <img alt='✔panel.3' src='https://github.com/Alek30k/PanelAdmin/assets/101005998/b845952e-8a15-4dd8-8b21-375f0ff24293' width="250" height="180"/><a href="https://panel-admin-two.vercel.app/" target="_blank">>>>Deploy<<<</a>     
 </details>
    
    <details>
