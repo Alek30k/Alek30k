@@ -126,34 +126,13 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <div><img alt='✔Snake' src='https://user-images.githubusercontent.com/101005998/187290489-89bfd5da-a3a5-41be-bd43-27ed033a3c62.png' width="250" height="180"/><a href="https://alejandro-cabrera-game-snake.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
 <div><img alt='✔Memory' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png' width="250" height="180"/><a href="https://alejandro-cabrera-juego-memoria.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
  </details>
-      
-- name: generate-snake-game-from-github-contribution-grid
-uses: Platane/snk@v3.0.0
 
-            - uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-  env:
-    # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
 ## Contacto
 
 <div> 
