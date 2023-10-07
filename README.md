@@ -35,6 +35,13 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 <details>
     <summary>✔Supermercados Csa Sta Rta  >>>ver más<<<</summary>
+<p><img alt='✔blog.1' src='https://github.com/Alek30k/Blog_App/assets/101005998/5ecb6200-3921-43ea-b98d-151ee0cf812a' width="250" height="180"/>
+<img alt='✔blog.2' src='https://github.com/Alek30k/Blog_App/assets/101005998/54b19191-bb08-4b64-a96f-048d9f8805ea' width="250" height="180"/>
+ <img alt='✔blog.3' src='https://github.com/Alek30k/Blog_App/assets/101005998/66a5ff2e-b4b3-4a0a-a7dd-795e6dd07ea9' width="250" height="180"/>     
+</details>
+
+<details>
+    <summary>✔Supermercados Csa Sta Rta  >>>ver más<<<</summary>
 <p><img alt='✔Super.1' src='https://github.com/Alek30k/Alek30k/assets/101005998/ca955437-0e60-4e4a-8422-eea5736d1fc4' width="250" height="180"/>
 <img alt='✔Super.2' src='https://github.com/Alek30k/Alek30k/assets/101005998/e4653e8f-b21e-46f5-a6a9-c55337ba2429' width="250" height="180"/>
  <img alt='✔Super.3' src='https://github.com/Alek30k/Alek30k/assets/101005998/58bfec5f-428e-4f3b-916c-e6b21870970e' width="250" height="180"/><a href="https://csarta.vercel.app/" target="_blank">>>>Deploy<<<</a>     
