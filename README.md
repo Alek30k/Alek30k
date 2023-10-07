@@ -127,7 +127,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <div><img alt='✔Memory' src='https://user-images.githubusercontent.com/101005998/187290659-4005ed9b-aafc-481d-a438-36f3436e6624.png' width="250" height="180"/><a href="https://alejandro-cabrera-juego-memoria.netlify.app/" target="_blank">>>>Deploy<<<</a></div>
  </details>
 
- ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 ## Contacto
 
