@@ -34,7 +34,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 ## Proyectos
 
 <details>
-    <summary>✔Supermercados Csa Sta Rta  >>>ver más<<<</summary>
+    <summary>✔Blog >>>ver más<<<</summary>
 <p><img alt='✔blog.1' src='https://github.com/Alek30k/Blog_App/assets/101005998/5ecb6200-3921-43ea-b98d-151ee0cf812a' width="250" height="180"/>
 <img alt='✔blog.2' src='https://github.com/Alek30k/Blog_App/assets/101005998/54b19191-bb08-4b64-a96f-048d9f8805ea' width="250" height="180"/>
  <img alt='✔blog.3' src='https://github.com/Alek30k/Blog_App/assets/101005998/66a5ff2e-b4b3-4a0a-a7dd-795e6dd07ea9' width="250" height="180"/>     
