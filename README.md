@@ -37,7 +37,7 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
     <summary>✔e-shop >>>ver más<<<</summary>
 <p><img alt='✔e-shop.1' src="https://github.com/Alek30k/Alek30k/assets/101005998/048eb6a7-dadc-4ef9-ac43-67e5fd11ea0d"  width="250" height="180"/>
 <img alt='✔e-shop.2' src='https://github.com/Alek30k/Alek30k/assets/101005998/044d05ac-47b4-4326-9d28-a0b22e0c1543' width="250" height="180"/>
- <img alt='✔e-shop.3' src='https://github.com/Alek30k/Alek30k/assets/101005998/3e49790f-a9e8-4c02-94bd-f92595d528b1' width="250" height="180"/>     
+ <img alt='✔e-shop.3' src='https://github.com/Alek30k/Alek30k/assets/101005998/3e49790f-a9e8-4c02-94bd-f92595d528b1' width="250" height="180"/><a href="https://e-shop-one-drab.vercel.app/" target="_blank">>>>Deploy<<<</a>     
 </details>
 <details>
     <summary>✔Blog >>>ver más<<<</summary>
