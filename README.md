@@ -37,6 +37,12 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 ## Proyectos
 
 <details>
+    <summary>✔Foodie-cart >>>ver más<<<</summary>
+<p><img alt='✔foodie-cart.1' src="https://github.com/Alek30k/Foodie-Cart/assets/101005998/57208188-54e9-4164-9665-948a2b075d78"  width="250" height="180"/>
+<img alt='✔foodie-cart.2' src='https://github.com/Alek30k/Foodie-Cart/assets/101005998/bed73156-12e1-4f2e-872b-e490ff31766b' width="250" height="180"/>
+ <img alt='✔foodie-cart.3' src='https://github.com/Alek30k/Foodie-Cart/assets/101005998/3c6fe55e-fdd8-4c58-9f39-4e836433df86' width="250" height="180"/><a href="https://foodie-cart-steel.vercel.app/" target="_blank">>>>Deploy<<<</a>     
+</details>
+<details>
     <summary>✔e-shop >>>ver más<<<</summary>
 <p><img alt='✔e-shop.1' src="https://github.com/Alek30k/Alek30k/assets/101005998/048eb6a7-dadc-4ef9-ac43-67e5fd11ea0d"  width="250" height="180"/>
 <img alt='✔e-shop.2' src='https://github.com/Alek30k/Alek30k/assets/101005998/044d05ac-47b4-4326-9d28-a0b22e0c1543' width="250" height="180"/>
