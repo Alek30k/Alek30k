@@ -43,6 +43,12 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
  <img alt='✔foodie-cart.3' src='https://github.com/Alek30k/Foodie-Cart/assets/101005998/3c6fe55e-fdd8-4c58-9f39-4e836433df86' width="250" height="180"/><a href="https://foodie-cart-steel.vercel.app/" target="_blank">>>>Deploy<<<</a>     
 </details>
     <details>
+    <summary>✔Grocery-Store >>>ver más<<<</summary>
+<p><img alt='✔grocery-store.1' src="https://github.com/Alek30k/Grocery-Store/assets/101005998/70c42e67-6b75-4d3a-8142-5adf339119fc"  width="250" height="180"/>
+<img alt='✔grocery-stor.2' src='https://github.com/Alek30k/Grocery-Store/assets/101005998/cd5d8fa8-50ef-4621-a28c-9605bada13fb' width="250" height="180"/>
+ <img alt='✔grocery-stor.3' src='https://github.com/Alek30k/Grocery-Store/assets/101005998/c3fd5921-0a49-4fff-a13a-c94fe381dd8e' width="250" height="180"/><a href="#" target="_blank">>>>Deploy<<<</a>     
+</details>
+    <details>
     <summary>✔Estate-App >>>ver más<<<</summary>
 <p><img alt='✔estate-app.1' src="https://github.com/Alek30k/Estate-app/assets/101005998/3d7beed6-07bc-4502-a320-9dbb8036cfd9"  width="250" height="180"/>
 <img alt='✔estate-app.2' src='https://github.com/Alek30k/Estate-app/assets/101005998/6796b5ab-3272-40ae-b693-8a6255da330f' width="250" height="180"/>
