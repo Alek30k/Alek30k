@@ -36,6 +36,13 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 
 ## Proyectos
 
+
+<details>
+    <summary>✔EcommerceArCdev >>>ver más<<<</summary>
+<p><img alt='✔EcommerceArCdev.1' src="https://github.com/Alek30k/E-Commerce-ArCdev/assets/101005998/6752a243-a858-459b-979b-0324967dc305"  width="250" height="180"/>
+<img alt='✔EcommerceArCdev.2' src='https://github.com/Alek30k/E-Commerce-ArCdev/assets/101005998/d5d892bb-f538-4fd8-a459-69f58a5c7eaf' width="250" height="180"/>
+ <img alt='✔EcommerceArCdev.3' src='https://github.com/Alek30k/E-Commerce-ArCdev/assets/101005998/976f7c33-623c-4cd4-83de-a7608e1596d2' width="250" height="180"/><a href="#" target="_blank">>>>Deploy<<<</a>     
+</details>
 <details>
     <summary>✔Foodie-cart >>>ver más<<<</summary>
 <p><img alt='✔foodie-cart.1' src="https://github.com/Alek30k/Foodie-Cart/assets/101005998/57208188-54e9-4164-9665-948a2b075d78"  width="250" height="180"/>
