@@ -20,15 +20,16 @@ Considero que el trabajo en equipo es especialmente importante en el desarrollo 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://next.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="next" width="40" height="40"/> </a> 
-<a href="https://typescript.org/" target="_blank"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://tailwind.js.org" target="_blank"> <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://jmsolera.com/wp-content/uploads/2019/07/React.js_logo-512.png" alt="react" width="40" height="40"/> </a> 
+<a href="https://next.org/" target="_blank"> <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxslkwshh8puehkg1vzu0.png" alt="next" width="80" height="40"/> </a> 
+<a href="https://typescript.org/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*eZX21KaXanUokLYelxNURg.png" alt="typescript" width="140" height="50"/> </a> 
+<a href="https://tailwind.js.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png" alt="tailwind" width="190" height="35"/> </a>
+   
+<a href="https://redux.js.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="redux" width="150" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://insomnia.com/" target="_blank"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://insomnia.com/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2023/02/Insomnia_Logo.png" alt="insomnia" width="140" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongoDB.org" target="_blank"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="" width="50" height="50"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    
